@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "syesec:blocks/ignis_crystal_block"
-  }
-}
