@@ -1,0 +1,17 @@
+#PARSE_ESCAPES
+#items
+item.ignis_crystal.name=ignis crystal
+item.water_crystal.name=water crystal
+item.earth_crystal.name=earth crystal
+item.air_crystal.name=air crystal
+item.metal_crystal.name=metal crystal
+tile.ignis_crystal_block.name=ignis crystal block
+tile.biome_glass.name=biome_glass
+
+#blocks
+block.ignis_crystal_block.name=ignis crystal block
+block.biome_glass.name=biome_glass
+
+#tabs
+itemGroup.syesec.materials=Sye's EC! - Materials
+itemGroup.syesec.buildingBlocks=Sye's EC! - building blocks

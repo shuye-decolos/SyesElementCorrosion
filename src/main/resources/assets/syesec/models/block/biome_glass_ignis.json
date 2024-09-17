@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "syesec:blocks/biome_glass_ignis"
+  }
+}
