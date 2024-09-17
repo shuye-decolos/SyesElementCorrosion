@@ -1,0 +1,6 @@
+{
+  "parent": "syesec:block/colors",
+  "textures": {
+    "all": "syesec:blocks/biome_glass"
+  }
+}
